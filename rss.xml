@@ -1,0 +1,19 @@
+<rss version="2.0">
+<channel>
+<item>
+<title>CFL restoran</title>
+<link>https://ecco2end.github.io/</link>
+<description>Izvanredna kuhinja CFL Restorana</description>
+</item>
+<item>
+<title>CFL meni</title>
+<link>https://ecco2end.github.io/CFLrestoran/meni.html</link>
+<description>Pogledajte koja hrana je na meniju</description>
+</item>
+<item>
+<title>Rezervisanje mesta</title>
+<link>https://ecco2end.github.io/CFLrestoran/rezervacije.html</link>
+<description>Online rezervacije</description>
+</item>
+</channel>
+</rss>
